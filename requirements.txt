@@ -1,0 +1,5 @@
+Python
+Pip
+#pip install cffi==1.14.5
+pip install cryptography==3.4.6
+pip install pycparser==2.20
